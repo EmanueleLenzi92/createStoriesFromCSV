@@ -1,0 +1,6 @@
+title,description,objects,objectlinks,lon,lat,barycenter_lon,barycenter_lat
+ALMO alp oxen,example,"example, example","http://www.wikidata.org/entity/Q40, http://www.wikidata.org/entity/Q380962, http://www.wikidata.org/entity/Q4830453",14.0,48.0,14.0,48.0
+Mountain landscape and reference chains,example,"example, example","http://www.wikidata.org/entity/Q1286, http://www.wikidata.org/entity/Q46, http://www.wikidata.org/entity/Q875641, http://www.wikidata.org/entity/Q30121, http://www.wikidata.org/entity/Q23757, http://www.wikidata.org/entity/Q731880, http://www.wikidata.org/entity/Q207079, http://www.wikidata.org/entity/Q917545",10.0,46.0,14.0,48.0
+Geography and population,example,"example, example","https://www.wikidata.org/wiki/Q22856, https://www.wikidata.org/wiki/Q1309100, https://www.wikidata.org/wiki/Q2625603",14.057780530315128,47.94146686042545,14.0,48.0
+Income and gross value added,example,"example, example","https://www.wikidata.org/wiki/Q994873, https://www.wikidata.org/wiki/Q55638, https://www.wikidata.org/wiki/Q55639, https://www.wikidata.org/wiki/Q55640",14.044167101943595,48.05429959879886,14.0,48.0
+Tourism,example,"example, example",https://www.wikidata.org/wiki/Q9323634,14.066304394113772,47.992106373445324,14.0,48.0
